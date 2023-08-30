@@ -5,7 +5,5 @@ The **Taeduk Radio Astronomy Observatory (TRAO)** is a 13.7-meter millimeter sin
 
 These documents provide **guidance for TRAO users** regarding observation, scientific research, proposal submission, data processing, and analysis to assist with TRAO observations.
 
-```{important}
 For fundamental information about TRAO such as official notices, status reports, schedules, proposal submission, publication lists, and science program lists, please refer to the official TRAO website ([**trao.kasi.re.kr**](https://trao.kasi.re.kr)).
-```
 <!-- end index page -->
