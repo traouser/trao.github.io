@@ -2,9 +2,13 @@
 
 ## Contributor
 
-**Shinyoung Kim**  Postdoctoral Researcher (Korea Astronomy and Space Science Institute)
+- **Shinyoung Kim**  
+    Postdoctoral Researcher \
+    _Korea Astronomy and Space Science Institute_
 
+```{important}
 If you would like to participate as a contributor, please send us a rough draft of the content you would like to add or modify, along with a brief self-introduction. We will review it and invite you as a member if appropriate.
+```
 
 ## Reporting Incorrect Information
 
