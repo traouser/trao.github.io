@@ -43,3 +43,12 @@ extensions = [
 html_theme = "furo"
 html_static_path = ["_static"]
 html_title = "TRAO User Guides"
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "dollarmath",
+    "fieldlist",
+    "deflist"
+    "strikethrough",
+    "tasklist",
+]
