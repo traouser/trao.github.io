@@ -18,4 +18,8 @@ necessary for conducting observations using TRAO:
 - How to finish observation
 - Reporting errors and troubleshooting
 
+```{toctree}
+:hidden:
 
+tos
+```
