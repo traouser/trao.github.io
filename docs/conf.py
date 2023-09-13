@@ -35,7 +35,17 @@ extensions = [
 # templates_path = ['_templates']
 # exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+suppress_warnings = ["myst.strikethrough"]
 
+myst_enable_extensions = [
+    "amsmath",
+    "colon_fence",
+    "dollarmath",
+    "fieldlist",
+    "deflist",
+    "strikethrough",
+    "tasklist",
+]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -43,12 +53,3 @@ extensions = [
 html_theme = "furo"
 html_static_path = ["_static"]
 html_title = "TRAO User Guides"
-myst_enable_extensions = [
-    "amsmath",
-    "colon_fence",
-    "dollarmath",
-    "fieldlist",
-    "deflist"
-    "strikethrough",
-    "tasklist",
-]

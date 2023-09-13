@@ -1,4 +1,4 @@
-# Observing with TRAO
+# Observing
 
 `Observing with TRAO` contains the following information
 necessary for conducting observations using TRAO:
