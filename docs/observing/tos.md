@@ -17,6 +17,12 @@ the `TOS` window may be in the background,
 so you may need to use the application switcher to bring the web browser to the foreground.
 ```
 
+```{seealso}
+[Download PDF version of TOS User Manual](TOS_manual.pdf)  
+This is the user manual for the previous version of `TOS` app. 
+The current version of `TOS` can be run directly in the browser without installation.
+```
+
 ## How to run TOS
 
 If you cannot find the `TOS` window, you can open `TOS` by following ways:
@@ -28,14 +34,14 @@ on the observation computers' Desktop
 
 ## Checking TRAO observation status
 
-`TOS` displays the TRAO observation status in one of the following for states:
+You can check the TRAO observation status in `TOS`:
 
 - `Maint.` : Telescope maintenance in progress (observation not possible)
 - `Rain` : Weather conditions prevent observation
 - `Break` : Idle state
 - `On obs.` : Currently on observing
 
-In the `On obs.` state, the observer's location is displayed as one of the following four options:
+In the `On obs.` state, the observer's location is displayed:
 
 - `Obs. room` : TRAO observation room (on-site)
 - `Away` : Away for a momoent (outside TRAO)
@@ -44,5 +50,6 @@ In the `On obs.` state, the observer's location is displayed as one of the follo
 
 ```{danger}
 When the observation status is `Maint.`,
-the observer must never operate telescope using MC.
+the observer must not operate telescope using MC.
 ```
+
